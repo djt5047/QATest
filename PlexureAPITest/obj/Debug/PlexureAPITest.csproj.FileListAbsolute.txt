@@ -1,0 +1,12 @@
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\bin\Debug\PlexureAPITest.dll
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\bin\Debug\PlexureAPITest.pdb
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.framework.dll
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.framework.pdb
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.framework.xml
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.csprojAssemblyReference.cache
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.csproj.CoreCompileInputs.cache
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.csproj.CopyComplete
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.dll
+C:\Workfolder\FinalPlexure\PlexureAPITest\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.pdb
